@@ -165,16 +165,9 @@ My recent work spans:
 - Text + Tables + Images
 - Hybrid retrieval
 - Local LLM integration
-- Enterprise document intelligence
-
----
-
-### 🔹 RAG Chatbots
-
-- PDF-based RAG
 - Website knowledge assistants
 - FAISS & Pinecone
-- Semantic search pipelines
+- Enterprise document intelligence
 
 ---
 
