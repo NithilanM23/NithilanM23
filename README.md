@@ -235,22 +235,9 @@ My recent work spans:
 
 ## 🐍 Contribution Snake
 
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-```
-
-(You can add this later using GitHub Actions.)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NithilanM23/NithilanM23/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
