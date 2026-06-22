@@ -212,15 +212,15 @@ My recent work spans:
 
 🎓 B.Tech AI & DS
 
-📊 CGPA: **8.9/10**
+📊 CGPA: **9/10**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MadeForMoney&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MadeForMoney&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NithilanM23&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NithilanM23&theme=tokyonight" />
 </p>
 
 ---
@@ -228,7 +228,7 @@ My recent work spans:
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadeForMoney&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithilanM23&layout=compact&theme=tokyonight" />
 </p>
 
 ---
